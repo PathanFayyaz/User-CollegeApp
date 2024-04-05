@@ -1,0 +1,85 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CollegeApp</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/latobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/latolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/latoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="link" />
+
+
+    <string name="mce1">Maharashtra Cosmopolitan Education Society\'s was established in 1948 by Late Mr.Abdul Kadir Khan and others, with an objective of providing education to the economically, educationally and socially weaker sections of society. It is an educational society registered under the Society\'s Registration Act of 1860 and also a Public Trust registered under the Bombay Public Trust Act 1950. It is also registered under section 12(a) of Income Tax Act 1961 and is exempted u/s 80G of the said Act by the Income Tax Commissioner, Pune.</string>
+    <string name="mce2">The M.C.E. Society is one of the oldest educational organizations of Pune and has done pioneering work in the field of education. Within a span of 15 years the M.C.E. Society from a humble beginning of four schools has transformed into an excellent educational complex of higher, medical, technical and professional academic institutions in the field of Arts, Science, Commerce, Computer Science, Law, Education, Pharmacy, Management Sciences, Architecture, Dental Sciences, Hospitality Studies and Information Technology.
+
+The progress and development made by M.C.E. Society and Azam Campus has been duly lauded and recognized by the Government of India. The M.C.E.Society has recently been awarded the first "Maulana Abul Kalam Azad Literacy Award" constituted by the Maulana Azad Education Foundation, Ministry of Social Justice and Empowerment, Government of India for being one of the best Minority Educational Campuses in India. The M.C.E. Society and Azam campus has become a source of inspiration and role model to follow for many educational institutions not only in Maharashtra but also in the entire country.
+
+The campus with its scenic beauty provides a peaceful environment conducive to study for the students. The campus is equipped with a modern library and reading room, laboratory and classrooms. All the institutes are connected through VOIP (Voice over Internet Protocol) Telephony for faster and better communication. The campus motto has always been to provide the students with the best facilities possible.
+
+The Society has made tremendous progress in the field of academics, sports, and extracurricular activities. The infrastructure with beautiful buildings, well laid internal roads, picturesque landscape, fully equipped laboratories, libraries with computers, furnished hostels for boys and girls is awe inspiring. V.M.Gany Sports Complex and pavilion constructed in accordance with National standards is a recognized play area. The students take maximum advantage of these facilities and have shown great results by participating in the State and National level competitions and bringing laurels to their respective colleges and institutions. The morale and value education enhances the personality of our students and develops self-confidence, self respect and a positive attitude towards life.</string>
+
+
+    <string name="about_college">Allana Institute of Management Sciences, Pune has been in existence since 1998. The institute offers 2 years fulltime MBA &amp; MCA program, Constituent College of Dr.P.A.Inamdar University.Formerly Affiliated to Savitribai Phule Pune University (1998-2022) approved by AICTE, New Delhi. The MBA program of the institute has been accredited by The National Board of Accreditation, New Delhi, Government of India w.e.f. 6th August, 2013 for period of 3 years. The institute is located in an ultramodern complex and has an excellent infrastructure, fully equipped library, modern computer laboratories, air conditioned conference rooms, classrooms with latest audio visual aids, cafeteria and other amenities  .</string>
+    <string name="about_college1">The institute is headed by Dr. Roshan Kazi who is a Director at Allana Institute of Management Sciences, Pune. He is a renowned sought-after trainer, in statistical software SPSS. The institute also has senior and experienced faculty members and innovative teaching methodologies and strategies guaranteed to unleash the potential of the students and to produce efficient and effective managers and professionals.</string>
+
+    <string name="title1">M.C.E. Society\'s \n Allana Institute of Management Sciences</string>
+    <string name="title2">Constituent College of Dr.P.A.Inamdar University.Formerly Affiliated to Savitribai Phule Pune University (1998-2022) Approved by AICTE, New Delhi</string>
+    <string name="about_mca">The MCA Programme is a full-time two years Master\'s Degree of Computer Applications. The basic objective of the programme is to provide a steady stream of the necessary knowledge, skills and foundation for acquiring a wide range of rewarding careers into the rapidly expanding world of the Information Technology.</string>
+    <string name="about_mba">The MBA programme prepares a student for a career in diverse sectors of the industry across the globe. The programme facilitates learning in theory and practice of different functional areas of management and equips the students with an integrated approach to various functions of management.</string>
+    <string name="director_message">Since 1998, the Allana Institute of Management Science, Pune has been active in transforming businesses. It is one of the most respected and reputed management institutes in India. It has come a long way in growing so big and has certainly stood apart in terms of producing mangers and IT geniuses who understand the importance of delivering more than expectations.
+
+The academic rigor, dynamic research, and learning environment at Allana Institute have resulted in creating human assets and enhancing intellectual capital. The vibrant community of faculty at Allana Institute can successfully blend theory and practice for creating pleasant learning experiences for our students challenges and competition is inevitable and unstoppable. Competition is a rule of life. You need to have the right blend of knowledge, attitude and skills to stay ahead of the competition. The top-level executives of business firms want to see students involved in solving real-life business problems. We at Allana institute believe that a man’s value to his business depends upon his ability to recognize and solve problems. The three value propositions (contemporary knowledge, leadership abilities and networking) of Allana institute, will certainly give you an opportunity to hone decision-making skills and problem solving skills.</string>
+
+    <string name="contact"> Call/WhatsApp: +91-9607006322 / +91-9607006422 /+91-7030012703 \n
+                             Dr. Roshan Kazi (Director): +91-9822022299
+                             Dr. Atik Shaikh (MBA Co-ordinator): +91-8007004044
+                             Prof. Tabassum Shaikh (MCA Co-ordinator): +91-9860508807
+                             administrator@aimspune.org
+                             info@aimspune.org
+                            2390/B-K. B. Hidayatullah Road, New Modikhana, Azam Campus, Camp, Pune - 411001.</string>
+
+
+    <string name="title3">
+          1.  Value based Education System
+        \n2.  Excellence in education
+        \n3.  Experienced in-house and visiting faculty
+        \n4.  Well equipped and Automated library
+        \n5.  Inter collegiate events
+        \n6.  Excellent Infrastructure
+        \n7.  Industry Interactions
+        \n8.  E-Campus
+        \n9.  StartUp and Innovation
+        \n10. MoUs with industries and other institutes to facilitate research activities
+        \n11. Placement Training and Assistance
+        \n12. Ragging free campus</string>
+
+    <string name="president_message">DEAR STUDENTS
+Welcome to Maharashtra Cosmopolitan Education Society\'s Allana Institute of Management Sciences. You would be delighted to know that our society is one of Pune\'s oldest and most reputed, having been established in 1948. Our society is strategically located in the heart of Pune city in a sprawling campus of 24 acres of land with modern buildings and all necessary infrastructure and facilities.
+
+The society runs 30 institutes and at any time more than 25,000 students study on the campus. The society runs institutes in the domains of Pharmacy, Management, Dental Sciences, Education, Architecture, Hospitality, etc. to name a few.
+
+The Institute is run by experienced and well qualified faculty and staff who provide a blend of academic knowledge with practical exposure aimed at ensuring placement and entrepreneurial success for our students.
+
+I am sure that your tenure with us will be a transformational experience in your life and help you to scale great heights of success.
+
+Welcome to Allana Institute of Management Sciences.</string>
+
+    <string name="vice_president_message">DEAR STUDENTS
+
+Today MBA, MCA are all part and parcel of gaining skills, which are needed, in business, industry and all sectors of economy. The postgraduate programs taught at Allana Institute of Management Sciences encourage excellence by providing in-depth study and stimulate enthusiasm for continued advancement in their career. AIMS has gained a proud reputation for excellence in teaching and in use of IT in all aspects of educational development and business applications. Allana Institute of Management Sciences endeavours to educate students to become competent professionals sensitive to the needs of others and prepared to assume leadership in their chosen professions.
+
+This is possible as we use the latest computer technology including the Internet as a tool for education. When you visit Allana Institute of Management Sciences campus you will get a better understanding of it and its working environment, which provides the competitive qualities, required in the job market.
+
+Welcome to Allana Institute of Management Sciences.</string>
+
+    <string name="D_message">Dear Students
+
+Since 1998, the Allana Institute of Management Science, Pune has been active in transforming businesses. It is one of the most respected and reputed management institutes in India. It has come a long way in growing so big and has certainly stood apart in terms of producing mangers and IT geniuses who understand the importance of delivering more than expectations.
+
+The academic rigor, dynamic research, and learning environment at Allana Institute have resulted in creating human assets and enhancing intellectual capital. The vibrant community of faculty at Allana Institute can successfully blend theory and practice for creating pleasant learning experiences for our students challenges and competition is inevitable and unstoppable. Competition is a rule of life. You need to have the right blend of knowledge, attitude and skills to stay ahead of the competition. The top-level executives of business firms want to see students involved in solving real-life business problems. We at Allana institute believe that a man’s value to his business depends upon his ability to recognize and solve problems. The three value propositions (contemporary knowledge, leadership abilities and networking) of Allana institute, will certainly give you an opportunity to hone decision-making skills and problem solving skills.
+
+Come, join the world of business management and take a leap towards success in your chosen career.</string>
+
+</resources>
