@@ -9,26 +9,28 @@ Curious about the heart and soul of our institution? Dive into the 'About Us' se
 With our comprehensive college app, your campus life just got a whole lot easier and more enjoyable. Download now and embark on your journey to academic success with confidence!
 
 
-Our college app offers a range of key features to enhance your campus experience:
+<b>Our college app offers a range of key features to enhance your campus experience:</b>
 
-	<b>Login Page:</b> Securely access personalized information and features tailored to your student profile.
+<b>Login Page:</b> Securely access personalized information and features tailored to your student profile.
  
-	View PDF: Conveniently access important documents, syllabi, and resources in PDF format directly within the app.
+<b>View PDF:</b> Conveniently access important documents, syllabi, and resources in PDF format directly within the app.
+
+<b>View Developer:</b> Get to know the creator behind the app.
  
-	View Location Map: Easily navigate the campus with an interactive map, helping you find buildings, classrooms, and facilities.
+<b>View Location Map:</b> Easily navigate the campus with an interactive map, helping you find buildings, classrooms, and facilities.
  
-	About Us: Discover the history, mission, and values of our college, providing insight into our institution’s identity and purpose.
+<b>About Us:</b> Discover the history, mission, and values of our college, providing insight into our institution’s identity and purpose.
  
-	Contact Us: Connect with relevant departments, offices, and staff members for inquiries, support, or assistance.
+<b>Contact Us:</b> Connect with relevant departments, offices, and staff members for inquiries, support, or assistance.
  
-	View Gallery: Explore a rich visual collection showcasing campus events, student activities, and memorable moments captured throughout the academic year.
+<b>View Gallery:</b> Explore a rich visual collection showcasing campus events, student activities, and memorable moments captured throughout the academic year.
  
-	View Faculty: Access profiles and contact information for faculty members, enabling you to connect with instructors and academic advisors.
+<b>View Faculty:</b> Access profiles and contact information for faculty members, enabling you to connect with instructors and academic advisors.
  
-	Rate Us: Share your feedback and experiences with the app, helping us continuously improve and enhance our services.
+<b>Rate Us:</b> Share your feedback and experiences with the app, helping us continuously improve and enhance our services.
  
-	Share App: Spread the word about our college app with friends, classmates, and fellow students through convenient sharing options.
+<b>Share App:</b> Spread the word about our college app with friends, classmates, and fellow students through convenient sharing options.
  
-	Logout: Securely sign out of your account to protect your privacy and ensure data security.
+<b>Logout:</b> Securely sign out of your account to protect your privacy and ensure data security. 
 
 With these essential features, our college app aims to streamline communication, enhance accessibility, and enrich your overall campus experience. Download now and unlock the full potential of your college journey!
